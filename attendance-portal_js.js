@@ -13,7 +13,7 @@ function showAddStudentForm() {
 function showAddClassForm() {
     // Show the add class popup
     document.getElementById('addClassPopup').
-        style.display = 'block';
+        style.display="box";
 }
 
 function addStudent() {
